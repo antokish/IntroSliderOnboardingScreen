@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d32f2f</color>
+    <color name="colorPrimaryDark">#b71c1c</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="csred">#E41F3D</color>
+    <color name="csblack">#1e0000</color>
+    <color name="cslight">#ffffff</color>
+
+    <color name="csdark">#403f3f</color>
+
+    <color name="indicator_unselected">#4D000000</color>
+</resources>
